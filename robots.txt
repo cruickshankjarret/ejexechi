@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahnoneeri.ddimitrov.name/sitemap.xml
